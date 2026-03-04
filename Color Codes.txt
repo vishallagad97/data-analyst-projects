@@ -1,0 +1,7 @@
+Title: #763C02
+Title Background : #B3B3B3 50%
+
+KPI :
+Cards Background = #2A1E1A with transparency 20%
+Font color = #F5E6D3
+
